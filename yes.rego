@@ -29,7 +29,7 @@ package app.yes
 
 
 # import data.utils
-# s
+# ss
 
 # By default, deny requests
 default allow = false
